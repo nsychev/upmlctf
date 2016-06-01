@@ -13,6 +13,6 @@
 
 [3. Странная картинка](https://github.com/nsychev/upmlctf/blob/master/exif)
 
-4. Не повезет - разбор 02.06.2016 в 20:00
+[4. Не повезет](https://contest.yandex.ru/contest/2522/problems/4) - разбор 02.06.2016 в 20:00
 
-5. Я люблю ЮФМЛ - разбор 02.06.2016 в 20:00
+[5. Я люблю ЮФМЛ](https://contest.yandex.ru/contest/2522/problems/5) - разбор 02.06.2016 в 20:00
