@@ -1,18 +1,18 @@
-# Тренировка ЮФМЛ к Yugra CTF 2016
+# РўСЂРµРЅРёСЂРѕРІРєР° Р®Р¤РњР› Рє Yugra CTF 2016
 
-## Сдать задачи
+## РЎРґР°С‚СЊ Р·Р°РґР°С‡Рё
 
-Задания и формы для отправки решений находятся на [Яндекс.Контесте](https://contest.yandex.ru/contest/2522/problems)
+Р—Р°РґР°РЅРёСЏ Рё С„РѕСЂРјС‹ РґР»СЏ РѕС‚РїСЂР°РІРєРё СЂРµС€РµРЅРёР№ РЅР°С…РѕРґСЏС‚СЃСЏ РЅР° [РЇРЅРґРµРєСЃ.РљРѕРЅС‚РµСЃС‚Рµ](https://contest.yandex.ru/contest/2522/problems)
 
-## Разборы заданий
-[0. Производство печенья](https://github.com/nsychev/upmlctf/blob/master/cookies)
+## Р Р°Р·Р±РѕСЂС‹ Р·Р°РґР°РЅРёР№
+[0. РџСЂРѕРёР·РІРѕРґСЃС‚РІРѕ РїРµС‡РµРЅСЊСЏ](https://github.com/nsychev/upmlctf/blob/master/cookies)
 
-[1. Глиняная дощечка](https://github.com/nsychev/upmlctf/blob/master/caesar)
+[1. Р“Р»РёРЅСЏРЅР°СЏ РґРѕС‰РµС‡РєР°](https://github.com/nsychev/upmlctf/blob/master/caesar)
 
 [2. Times New Roman](https://github.com/nsychev/upmlctf/blob/master/header)
 
-[3. Странная картинка](https://github.com/nsychev/upmlctf/blob/master/exif)
+[3. РЎС‚СЂР°РЅРЅР°СЏ РєР°СЂС‚РёРЅРєР°](https://github.com/nsychev/upmlctf/blob/master/exif)
 
-[4. Не повезет](https://contest.yandex.ru/contest/2522/problems/4) - разбор 02.06.2016 в 20:00
+[4. РќРµ РїРѕРІРµР·РµС‚](https://contest.yandex.ru/contest/2522/problems/4) - СЂР°Р·Р±РѕСЂ 02.06.2016 РІ 20:00
 
-[5. Я люблю ЮФМЛ](https://contest.yandex.ru/contest/2522/problems/5) - разбор 02.06.2016 в 20:00
+[5. РЇ Р»СЋР±Р»СЋ Р®Р¤РњР›](https://contest.yandex.ru/contest/2522/problems/5) - СЂР°Р·Р±РѕСЂ 02.06.2016 РІ 20:00
