@@ -1,20 +1,30 @@
 # Тренировка ЮФМЛ к Ugra CTF 2016
 
-## Сдать задачи
 
-Дорешивать таски можно на [Яндекс.Контесте](https://contest.yandex.ru/contest/2522/problems)
+## Таски
+[0. Производство печенья](cookies/)
 
-## Разборы заданий
-[0. Производство печенья](https://github.com/upmlctf/ugractf-training-2016/blob/master/cookies)
+[1. Глиняная дощечка](caesar/)
 
-[1. Глиняная дощечка](https://github.com/upmlctf/ugractf-training-2016/blob/master/caesar)
+[2. Times New Roman](header/)
 
-[2. Times New Roman](https://github.com/upmlctf/ugractf-training-2016/blob/master/header)
+[3. Странная картинка](exif/)
 
-[3. Странная картинка](https://github.com/upmlctf/ugractf-training-2016/blob/master/exif)
+[4. Не повезет](jquery/)
 
-[4. Не повезет](https://github.com/upmlctf/ugractf-training-2016/blob/master/jquery)
+[5. Я люблю ЮФМЛ](upmllogo/)
 
-[5. Я люблю ЮФМЛ](https://github.com/upmlctf/ugractf-training-2016/blob/master/upmllogo)
+[6. Почта России](sql/)
 
-[6. Почта России](https://github.com/upmlctf/ugractf-training-2016/blob/master/sql)
+## Команда
+
+* [Никита Сычев](https://github.com/nsychev) — капитан команды, составитель тасков
+
+## Платформа
+
+Тренировка проводилась на платформе Яндекс.Контест
+
+## Лицензия
+
+Материалы соревнования можно использовать для тренировок, сборов и других личных целей, но запрещено использовать на своих соревнованиях. Подробнее — [в лицензии](LICENSE)
+
